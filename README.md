@@ -1,1 +1,1 @@
-# full-width-whitespace
+# 全形空白
