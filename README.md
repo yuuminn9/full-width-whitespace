@@ -1,4 +1,4 @@
-# 給　我　全　形　空　白　GIVE　ME　FULL　WIDTH　WHITESPACE
+# 全形空白　GIVE　ME　FULL　WIDTH　WHITESPACE
 
 ```
 複製全形空白 ➡️ 【　】
